@@ -30,6 +30,55 @@ El equipo de GitHub 101
 
 </details>
 
+<!-- 
+  <<< Author notes: Introduction >>> 
+-->
+
+<details id=2>
+<summary><h2>Introducción</h2></summary>
+
+<!-- 
+  <<< Author notes: Inicio >>> 
+-->
+
+<details id=2>
+<summary><h2>Inicio del curso</h2></summary>
+
+<!-- 
+  <<< Author notes: Actividad - Paso 1 >>> 
+-->
+
+<details id=3>
+<summary><h2>Paso 1: Creando una rama</h2></summary>
+
+<!-- 
+  <<< Author notes: Actividad - Paso 2 >>> 
+-->
+
+<details id=4>
+<summary><h2>Paso 2: Enviando un archivo/cambio</h2></summary>
+
+<!-- 
+  <<< Author notes: Actividad - Paso 3 >>> 
+-->
+
+<details id=4>
+<summary><h2>Paso 3: Abrir una solicitud de incorporación de cambios</h2></summary>
+
+<!-- 
+  <<< Author notes: Actividad - Paso 4 >>> 
+-->
+
+<details id=5>
+<summary><h2>Paso 4: Fusionando/Aceptando los cambios</h2></summary>
+
+<!-- 
+  <<< Author notes: Conclusión >>> 
+-->
+
+<details id=5>
+<summary><h2>Termino del curso</h2></summary>
+
 <!--
   <<< Author notes: Footer >>>
 -->
