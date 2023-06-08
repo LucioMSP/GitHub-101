@@ -6,6 +6,7 @@
 -->
 # GitHub-101
 Curso básico para aprender a usar GitHub
+---
 
 <!-- 
   <<< Author notes: Start of the course >>> 
@@ -38,7 +39,9 @@ El equipo de GitHub 101
 <summary><h2>Introducción</h2></summary>
 
 **¿Qué es GitHub?**
-GitHub es un servicio basado en la nube que aloja un sistema de control de versiones (VCS) llamado Git, en otras palabras es una plataforma de colaboración que utiliza Git para el control de versiones, es decir, se utiliza para compartir y contribuir al software de código abierto.
+<br>
+GitHub es un servicio basado en la nube que aloja un sistema de control de versiones (VCS) llamado [Git](https://docs.github.com/es/get-started/using-git/about-git), en otras palabras es una plataforma de colaboración que utiliza Git para el control de versiones, es decir, se utiliza para compartir y contribuir al software de [código abierto](https://docs.github.com/es/get-started/quickstart/github-glossary#c%C3%B3digo-abierto).
+<br>
 📺 Vídeo: [¿Qué es GitHub?](https://youtu.be/DinilgacaWs)
 
 **¿Qué es un repositorio?**
@@ -46,14 +49,14 @@ Un repositorio es un proyecto que contiene todos los archivos del mismo, tales c
 📺 Video: [¿Qué es un repositorio?](https://youtu.be/6NOwXGqHUds)
 
 **¿Qué es una rama?**
-En GitHub, una rama (branch en inglés) es una versión paralela de un repositorio que permite a los desarrolladores trabajar en distintos aspectos de un proyecto de forma aislada. Cuando se crea una rama, se copian todos los archivos y el historial de cambios del repositorio principal, y a partir de ahí se pueden realizar modificaciones sin afectar la rama principal (también conocida como rama "master" o "main").
+En GitHub, una [rama (branch en inglés)](https://docs.github.com/es/get-started/quickstart/github-glossary#branch) es una versión paralela de un repositorio que permite a los desarrolladores trabajar en distintos aspectos de un proyecto de forma aislada. Cuando se crea una rama, se copian todos los archivos y el historial de cambios del repositorio principal, y a partir de ahí se pueden realizar modificaciones sin afectar la rama principal (también conocida como rama "master" o "main").
 
 Las ramas son útiles para varios propósitos, como desarrollar nuevas características, solucionar problemas, experimentar con cambios importantes o colaborar con otros desarrolladores. Cada rama puede tener su propio conjunto de cambios y contribuciones independientes del resto del proyecto. Esto permite un flujo de trabajo colaborativo y paralelo, ya que cada desarrollador puede trabajar en su propia rama sin interferir con el trabajo de los demás.
 📺 Vídeo: [¿Qué son las ramas?](https://youtu.be/LL47l59Ld5I)
 
 **¿Qué es un perfil README?**
 
-Un archivo README en GitHub es una práctica común en la mayoría de los repositorios de código. README es una abreviatura de "read me" que significa "léeme" en inglés. Este archivo tiene la extensión ".md", lo que indica que está escrito en formato Markdown, un lenguaje de marcado ligero para formatear texto.
+Un archivo [README](https://docs.github.com/es/get-started/quickstart/github-glossary#archivo-l%C3%A9ame) en GitHub es una práctica común en la mayoría de los repositorios de código. README es una abreviatura de "read me" que significa "léeme" en inglés. Este archivo tiene la extensión ".md", lo que indica que está escrito en formato Markdown, un lenguaje de marcado ligero para formatear texto.
 
 El README se utiliza para proporcionar información básica y relevante sobre el proyecto alojado en el repositorio de GitHub. Su objetivo es brindar a los visitantes y colaboradores una visión general del proyecto, instrucciones de instalación, documentación, ejemplos de uso y cualquier otra información que pueda ser útil.
 
