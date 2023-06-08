@@ -76,7 +76,7 @@ El contenido de un archivo README puede variar según el proyecto, pero generalm
 
 **¿Qué es un perfil README?**
 <br>
-Un perfil README es practicamente una introducción de quien eres, es decir, una mini biografia que se muestra en nuestro perfil de GitHub. Aquí podemos compartir información relveante hacia la comunidad en GitHub.com. GitHub muestra susodicho archivo en la parte superior de nuestra página de perfil. Para obtener más información, consulte "{Administrar el README de tu perfil](https://docs.github.com/es/enterprise-cloud@latest/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme#about-your-profile-readme)".
+Un perfil README es practicamente una introducción de quien eres, es decir, una mini biografia que se muestra en nuestro perfil de GitHub. Aquí podemos compartir información relveante hacia la comunidad en GitHub.com. GitHub muestra susodicho archivo en la parte superior de nuestra página de perfil. Para obtener más información, consulte "[Administrar el README de tu perfil](https://docs.github.com/es/enterprise-cloud@latest/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme#about-your-profile-readme)".
 
 <br>
 📺 Vídeo: [CREA tu Github README Profile paso a paso](https://www.youtube.com/live/1eEnboVooiY?feature=share)
