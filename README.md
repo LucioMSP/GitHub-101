@@ -34,8 +34,40 @@ El equipo de GitHub 101
   <<< Author notes: Introduction >>> 
 -->
 
-<details id=2>
+<details id=1>
 <summary><h2>Introducción</h2></summary>
+
+**¿Qué es GitHub?**
+GitHub es un servicio basado en la nube que aloja un sistema de control de versiones (VCS) llamado Git, en otras palabras es una plataforma de colaboración que utiliza Git para el control de versiones, es decir, se utiliza para compartir y contribuir al software de código abierto.
+📺 Vídeo: [¿Qué es GitHub?](https://youtu.be/DinilgacaWs)
+
+**¿Qué es un repositorio?**
+Un repositorio es un proyecto que contiene todos los archivos del mismo, tales como imagenes, carpetas, entre otros tipos de archivos. Así como el historial de revisiones de cada uno de ellos. Aqui puedes debatir y administrar el trabajo de tu proyecto dentro.
+📺 Video: [¿Qué es un repositorio?](https://youtu.be/6NOwXGqHUds)
+
+**¿Qué es una rama?**
+En GitHub, una rama (branch en inglés) es una versión paralela de un repositorio que permite a los desarrolladores trabajar en distintos aspectos de un proyecto de forma aislada. Cuando se crea una rama, se copian todos los archivos y el historial de cambios del repositorio principal, y a partir de ahí se pueden realizar modificaciones sin afectar la rama principal (también conocida como rama "master" o "main").
+
+Las ramas son útiles para varios propósitos, como desarrollar nuevas características, solucionar problemas, experimentar con cambios importantes o colaborar con otros desarrolladores. Cada rama puede tener su propio conjunto de cambios y contribuciones independientes del resto del proyecto. Esto permite un flujo de trabajo colaborativo y paralelo, ya que cada desarrollador puede trabajar en su propia rama sin interferir con el trabajo de los demás.
+📺 Vídeo: [¿Qué son las ramas?](https://youtu.be/LL47l59Ld5I)
+
+**¿Qué es un perfil README?**
+
+Un archivo README en GitHub es una práctica común en la mayoría de los repositorios de código. README es una abreviatura de "read me" que significa "léeme" en inglés. Este archivo tiene la extensión ".md", lo que indica que está escrito en formato Markdown, un lenguaje de marcado ligero para formatear texto.
+
+El README se utiliza para proporcionar información básica y relevante sobre el proyecto alojado en el repositorio de GitHub. Su objetivo es brindar a los visitantes y colaboradores una visión general del proyecto, instrucciones de instalación, documentación, ejemplos de uso y cualquier otra información que pueda ser útil.
+
+El contenido de un archivo README puede variar según el proyecto, pero generalmente incluye los siguientes elementos:
+
+- **Título y descripción**: Un breve resumen del proyecto que lo describe de manera concisa.
+- **Requisitos**: Los requisitos previos necesarios para utilizar o contribuir al proyecto, como versiones de software o bibliotecas adicionales.
+- **Instalación**: Instrucciones paso a paso sobre cómo instalar y configurar el proyecto.
+- **Uso**: Cómo utilizar el proyecto, incluidos ejemplos de código o comandos.
+- **Contribución**: Directrices para que otros contribuyan al proyecto, como pautas de estilo de código, estructura de directorios y procesos de solicitud de extracción.
+- **Documentación adicional**: Enlaces a documentación adicional, como guías detalladas, tutoriales o ejemplos.
+- **Licencia**: Información sobre la licencia del proyecto y los derechos de autor.
+
+ 📺 Vídeo: [CREA tu Github README Profile paso a paso](https://www.youtube.com/live/1eEnboVooiY?feature=share)
 
 </details>
 
