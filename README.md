@@ -6,7 +6,6 @@
 -->
 # GitHub-101
 Curso básico para aprender a usar GitHub
----
 
 <!-- 
   <<< Author notes: Start of the course >>> 
@@ -76,11 +75,12 @@ El contenido de un archivo README puede variar según el proyecto, pero generalm
 
 **¿Qué es un perfil README?**
 <br>
-Un perfil README es practicamente una introducción de quien eres, es decir, una mini biografia que se muestra en nuestro perfil de GitHub. Aquí podemos compartir información relveante hacia la comunidad en GitHub.com. Lo interesante es que el portal muestra susodicho archivo en la parte superior de nuestra página de perfil. Si quieres saber más u obtener mayor información, consulta "[Administrar el README de tu perfil](https://docs.github.com/es/enterprise-cloud@latest/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme#about-your-profile-readme)".
+Un perfil README es practicamente una introducción de quien eres, es decir, una mini biografia que se muestra en nuestro perfil de GitHub. Aquí podemos compartir información relevante hacia la comunidad en GitHub.com. Lo interesante es que el portal muestra susodicho archivo en la parte superior de nuestra página de perfil. Si quieres saber más u obtener mayor información, consulta "[Administrar el README de tu perfil](https://docs.github.com/es/enterprise-cloud@latest/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme#about-your-profile-readme)".
 
 📺 Vídeo: [CREA tu Github README Profile paso a paso](https://www.youtube.com/live/1eEnboVooiY?feature=share)
 
 <br>
+
  ![vgglProfileREADME](/images/vgglProfileREADME.jpeg)
 
 </details>
@@ -112,11 +112,26 @@ Un perfil README es practicamente una introducción de quien eres, es decir, una
 -->
 
 <details id=3>
-<summary><h2>Paso 1: Creando una rama</h2></summary>
+<summary><h2>Paso 1: Enviando un archivo/cambio</h2></summary>
 
+### Actividad: Mi primer archivo/cambio
 
+Una vez dentro del repositorio podemos observar que no contamos con ningún archivo, pero el portal nos brinda algunas recomendaciones tales como la de añadir(cargar) un archivo o crearlo. Así mismo nos señala que podemos crear/incluir un README, LICENSE oun .gitignore. 
 
-6. ¡Listo!, continuemos con el siguiente paso<br>
+ ![Incluyendo archivo README](/images/incluyendo-archivo-README.jpg)
+
+ Para este ejercicio daremos clic en la opción de README, el cual nos redirigira a la vista que nos mostrará que se creo el archivo con el mismo nombre en formato .md en nuestra rama `main`
+
+ ![Creando nuestro archivo README](/images/creando-nuestro-archivo-README.jpg)
+
+¡Listo!, continuemos con el siguiente paso
+<br>
+
+**Nota**: si creó un repositorio seleccionando el checkbox de "Añadir un archivo README" (Add a README file), el paso anterior no se realizaria puesto que el archivo README ya estaría en nuestro proyecto, por ende vayamos al paso número dos.
+
+<br>
+
+ ![Add a README](/images/addA-README.jpeg)
 
 </details>
 
@@ -125,7 +140,9 @@ Un perfil README es practicamente una introducción de quien eres, es decir, una
 -->
 
 <details id=4>
-<summary><h2>Paso 2: Enviando un archivo/cambio</h2></summary>
+<summary><h2>Paso 2: Creando una rama</h2></summary>
+
+
 
 </details>
 
