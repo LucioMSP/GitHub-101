@@ -93,14 +93,17 @@ Un perfil README es practicamente una introducción de quien eres, es decir, una
 <summary><h2>Inicio del curso</h2></summary>
 
 1. Hagamos clic en **Iniciar curso** (se recomienda abrir el enlace en una nueva pestaña)
-    <br />[![Iniciar Curso](https://user-images.githubusercontent.com/1221423/218596841-0645fe1a-4aaf-4f51-9ab3-8aa2d3fdd487.svg)](https://github.com/habilidades/introducción-a-github/generar)
+<br><br />
+[![Iniciar Curso](https://user-images.githubusercontent.com/1221423/218596841-0645fe1a-4aaf-4f51-9ab3-8aa2d3fdd487.svg)](https://github.com/new?template_owner=)
 2. Una vez en la pestaña, sigamos las siguientes instrucciones para crear un nuevo repositorio.
     - El dueño de la cuenta o propietario de la misma, debe de indicar si usará su cuenta personal o una organización para alojar el repositorio.
-    - Recomendamos crear un repositorio público; los repositorios privados [utilizarán minutos de acciones](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions ).
+    - Recomendamos crear un repositorio público; los repositorios privados [utilizarán minutos de GitHub Actions](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions ).
     - Asigne un nombre al repositorio que sea fácil de reconocer y recordar.
+    <br>
+
     ![Crear un nuevo repositorio](/images/creando-nuevo-repositorio.jpg)
 
-3. Después de crear susodicho, deberemos de esperar unos 20 segundos aproximadamente para poder actualizar la página y poder ver nuestro nuevo repositorio. Siga las instrucciones paso a paso en el LÉAME del nuevo repositorio. [Acciones de GitHub](https://docs.github.com/en/actions) cerrará automáticamente esta bienvenida y abrirá el primer paso.
+3. Después de crear susodicho, deberemos de esperar unos 20 segundos aproximadamente para poder actualizar la página y poder ver nuestro nuevo repositorio.
 
 </details>
 
