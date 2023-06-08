@@ -52,7 +52,7 @@ Un [repositorio](https://docs.github.com/es/get-started/quickstart/github-glossa
 
 **¿Qué es una rama?**
 <br>
-En GitHub, una [rama (branch en inglés)](https://docs.github.com/es/get-started/quickstart/github-glossary#branch) es una versión paralela de un repositorio que permite a los desarrolladores trabajar en distintos aspectos de un proyecto de forma aislada. Cuando se crea una rama, se copian todos los archivos y el historial de cambios del repositorio principal, y a partir de ahí se pueden realizar modificaciones sin afectar la rama principal (también conocida como rama "master" o "main").
+En GitHub, una [rama (branch en inglés)](https://docs.github.com/es/get-started/quickstart/github-glossary#branch) es una versión paralela de un repositorio que permite a los desarrolladores trabajar en distintos aspectos de un proyecto de forma aislada. Cuando se crea una rama, se copian todos los archivos y el historial de cambios del repositorio principal, y a partir de ahí se pueden realizar modificaciones sin afectar la rama principal (también conocida como rama "master" o `main`).
 
 Las ramas son útiles para varios propósitos, como desarrollar nuevas características, solucionar problemas, experimentar con cambios importantes o colaborar con otros desarrolladores. Cada rama puede tener su propio conjunto de cambios y contribuciones independientes del resto del proyecto. Esto permite un flujo de trabajo colaborativo y paralelo, ya que cada desarrollador puede trabajar en su propia rama sin interferir con el trabajo de los demás.
 <br>
@@ -60,7 +60,7 @@ Las ramas son útiles para varios propósitos, como desarrollar nuevas caracter�
 
 **¿Qué es un archivo README?**
 <br>
-Un archivo [README](https://docs.github.com/es/get-started/quickstart/github-glossary#archivo-l%C3%A9ame) en GitHub es una práctica común en la mayoría de los repositorios de código. README es una abreviatura de "read me" que significa "léeme" en inglés. Este archivo tiene la extensión ".md", lo que indica que está escrito en formato Markdown, un lenguaje de marcado ligero para formatear texto.
+Un archivo [README](https://docs.github.com/es/get-started/quickstart/github-glossary#archivo-l%C3%A9ame) en GitHub es una práctica común en la mayoría de los repositorios de código. README es una abreviatura de "read me" que significa "léeme" en inglés. Este archivo tiene la extensión ".md", lo que indica que está escrito en formato [Markdown](https://docs.github.com/es/get-started/quickstart/github-glossary#markdown), un lenguaje de marcado ligero para formatear texto.
 
 El README se utiliza para proporcionar información básica y relevante sobre el proyecto alojado en el repositorio de GitHub. Su objetivo es brindar a los visitantes y colaboradores una visión general del proyecto, instrucciones de instalación, documentación, ejemplos de uso y cualquier otra información que pueda ser útil.
 
@@ -76,15 +76,14 @@ El contenido de un archivo README puede variar según el proyecto, pero generalm
 
 **¿Qué es un perfil README?**
 <br>
-Un perfil README es practicamente una introducción de quien eres, es decir, una mini biografia que se muestra en nuestro perfil de GitHub. Aquí podemos compartir información relveante hacia la comunidad en GitHub.com. GitHub muestra susodicho archivo en la parte superior de nuestra página de perfil. Para obtener más información, consulte "[Administrar el README de tu perfil](https://docs.github.com/es/enterprise-cloud@latest/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme#about-your-profile-readme)".
+Un perfil README es practicamente una introducción de quien eres, es decir, una mini biografia que se muestra en nuestro perfil de GitHub. Aquí podemos compartir información relveante hacia la comunidad en GitHub.com. Lo interesante es que el portal muestra susodicho archivo en la parte superior de nuestra página de perfil. Si quieres saber más u obtener mayor información, consulta "[Administrar el README de tu perfil](https://docs.github.com/es/enterprise-cloud@latest/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme#about-your-profile-readme)".
 
-<br>
 📺 Vídeo: [CREA tu Github README Profile paso a paso](https://www.youtube.com/live/1eEnboVooiY?feature=share)
 
+<br>
  ![vgglProfileREADME](/images/vgglProfileREADME.jpeg)
 
 </details>
-
 
 <!-- 
   <<< Author notes: Inicio >>> 
@@ -92,6 +91,16 @@ Un perfil README es practicamente una introducción de quien eres, es decir, una
 
 <details id=2>
 <summary><h2>Inicio del curso</h2></summary>
+
+1. Hagamos clic en **Iniciar curso** (se recomienda abrir el enlace en una nueva pestaña)
+    <br />[![Iniciar Curso](https://user-images.githubusercontent.com/1221423/218596841-0645fe1a-4aaf-4f51-9ab3-8aa2d3fdd487.svg)](https://github.com/habilidades/introducción-a-github/generar)
+2. Una vez en la pestaña, sigamos las siguientes instrucciones para crear un nuevo repositorio.
+    - El dueño de la cuenta o propietario de la misma, debe de indicar si usará su cuenta personal o una organización para alojar el repositorio.
+    - Recomendamos crear un repositorio público; los repositorios privados [utilizarán minutos de acciones](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions ).
+    - Asigne un nombre al repositorio que sea fácil de reconocer y recordar.
+    ![Crear un nuevo repositorio](/images/creando-nuevo-repositorio.jpg)
+
+3. Después de crear susodicho, deberemos de esperar unos 20 segundos aproximadamente para poder actualizar la página y poder ver nuestro nuevo repositorio. Siga las instrucciones paso a paso en el LÉAME del nuevo repositorio. [Acciones de GitHub](https://docs.github.com/en/actions) cerrará automáticamente esta bienvenida y abrirá el primer paso.
 
 </details>
 
@@ -101,6 +110,10 @@ Un perfil README es practicamente una introducción de quien eres, es decir, una
 
 <details id=3>
 <summary><h2>Paso 1: Creando una rama</h2></summary>
+
+
+
+6. ¡Listo!, continuemos con el siguiente paso<br>
 
 </details>
 
