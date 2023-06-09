@@ -5,7 +5,7 @@
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
 # GitHub-101
-Curso básico para aprender a usar GitHub
+Mini curso básico para aprender a usar GitHub.
 
 <!-- 
   <<< Author notes: Start of the course >>> 
@@ -198,7 +198,7 @@ La creación de una rama nos permite editar los proyecto sin cambiar la rama `ma
 
 Para este paso lo primero que deberemos de realizar será el crear/agregar un nuevo archivo, debido a que nos encontramos en la nueva rama que acabamos de generar, por ello sigamos los siguientes pasos:
 
-1. En la pestaña **< > Código (Code)**, en el menú de encabezado de muestro repositorio, asegúremonos de encontrarnos situados en la rama, la cual en este ejemplo nombramos: `dev`.
+1. En la pestaña **< > Código (Code)**, en el menú de encabezado de nuestro repositorio, asegúremonos de encontrarnos situados en la rama, la cual en este ejemplo nombramos: `dev`.
 
 2. Acto seguido elijamos el menú desplegable "Add file (Agregar archivo)" y seleccionemos (demos clic) en la opción "Create new file (Crear nuevo archivo)".
 <br>
@@ -242,6 +242,16 @@ Para este paso lo primero que deberemos de realizar será el crear/agregar un nu
 Ahora que se realizó un cambio en el proyecto y se añadio, es hora de compartir el cambio propuesto a través de una solicitud de extracción o como se conoce normalmente: PR (Pull Request), el cúal se definió en la Introducción.
 
 ### Actividad: Generando nuestro primer Pull Request :keyboard:
+
+Una vez realizado lo anterior, es probable que hayan notado un pequeño mensaje que muestra el envío reciente a la rama y proporciona un botón que dice **Contribute (Contribuir)**. Al desplegarlo, podremos observar dos opciones: **Compare (Comparar)** y **Open pull request (Abrirl solicitud de extracción)**.
+
+![Comparar y abrir Pull Request](/images/comparar-y-abrir-pull-request.jpg)
+
+Para realizar el PR hagamos clic en **Open pull request**, al realizar esto se nos mostrará una vista como la siguiente:
+
+![Abriendo Pull Request](/images/abriendo-pul-request.jpg)
+
+Caso contrario que no hayamos dado clic en susodicha opción deberemos de realizar los siguientes pasos:
 
 
 
