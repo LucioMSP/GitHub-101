@@ -114,17 +114,26 @@ Un perfil README es practicamente una introducción de quien eres, es decir, una
 <details id=3>
 <summary><h2>Paso 1: Enviando un archivo/cambio</h2></summary>
 
-### Actividad: Mi primer archivo/cambio
-
-Una vez dentro del repositorio podemos observar que no contamos con ningún archivo, pero el portal nos brinda algunas recomendaciones tales como la de añadir(cargar) un archivo o crearlo. Así mismo nos señala que podemos crear/incluir un README, LICENSE oun .gitignore. 
+    Una vez dentro del repositorio podemos observar que no contamos con ningún archivo, pero el portal nos brinda algunas recomendaciones tales como la de añadir(cargar) un archivo o crearlo. Así mismo nos señala que podemos crear/incluir un README, LICENSE oun .gitignore.
+<br> 
 
  ![Incluyendo archivo README](/images/incluyendo-archivo-README.jpg)
 
- Para este ejercicio daremos clic en la opción de README, el cual nos redirigira a la vista que nos mostrará que se creo el archivo con el mismo nombre en formato .md en nuestra rama `main`
+    Para este ejercicio daremos clic en la opción de README, mismo que nos redirigirá a la vista que nos mostrará que se creo el archivo con el mismo nombre en formato .md en nuestra rama `main`
+<br>
 
- ![Creando nuestro archivo README](/images/creando-nuestro-archivo-README.jpg)
+  ![Creando nuestro archivo README](/images/creando-nuestro-archivo-README.jpg)
 
-¡Listo!, continuemos con el siguiente paso
+    Aquí podemos añadir la información que deseemos, tal y como se mencionó con anterioridad, cabe destacar que si no gustan editarlo de momento lo podemos hacer más adelante. Por ahora demos clic en el botón azul `Commit changes`, situado en el lado superior derecho.
+    Al hacerlo se desplegará una ventana que solicitará que añadamos un título y una descripción, misma que es opcional. Cuando hayamos escrito susodichos demos clic en el boton correspondiente.
+    
+  ![Subir cambios](/images/commit-changes.jpg)
+   
+    ¡Listo!, con esto habremos realizado nuestro primer commit, el cual se puede interpretar como si hubiéramos creado un archivo nuevo y almacenado en nuestro repositorio. 
+    
+  ![README completo](/images/README-completo.jpg)  
+
+    Continuemos con el siguiente paso.
 <br>
 
 **Nota**: si creó un repositorio seleccionando el checkbox de "Añadir un archivo README" (Add a README file), el paso anterior no se realizaria puesto que el archivo README ya estaría en nuestro proyecto, por ende vayamos al paso número dos.
