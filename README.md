@@ -175,7 +175,7 @@ La creación de una rama nos permite editar los proyecto sin cambiar la rama `ma
 
     ![rama-creada](/images/rama-creada.jpg)
 
-¡Listo! - Has creado una rama :tada:_
+¡Listo! - Has creado una rama :tada:
 
 </details>
 
@@ -186,6 +186,38 @@ La creación de una rama nos permite editar los proyecto sin cambiar la rama `ma
 <details id=5>
 <summary><h2>Paso 3: Abrir una solicitud de incorporación de cambios</h2></summary>
 
+Para este paso lo primero que deberemos de realizar será el crear/agregar un nuevo archivo, debido a que nos encontramos en la nueva rama que acabamos de generar, por ello sigamos los siguientes pasos:
+
+1. En la pestaña **< > Código (Code)**, en el menú de encabezado de muestro repositorio, asegúremonos de encontrarnos situaciones en la rama, la cual en este ejemplo nombramos: `dev`.
+
+2. Acto seguido eligamos el menú desplegable "Add file (Agregar archivo)" y seleccionemos (demos clic) en la opción "Create new file (Crear nuevo archivo)".
+
+ ![crear-nuevo-archivo](/images/crear-nuevo-archivo.jpg)
+
+ 3. En la nueva vista, aparecerá un campo vacío con una leyenda en sombreado "Name your file...", el cual nos indica que le brindemos un nombre, llamemoslo `LICENSE.md`.
+
+***Nota***: `.md` es una extensión de archivo que crea un archivo [Markdown](https://docs.github.com/es/get-started/quickstart/github-glossary#markdown). Para obtener mayor información sobre Markdown visite [Sintaxis básica de escritura y formato](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) en la documentación de GitHub o realizando el curso de habilidades [Comunicación mediante Markdown](https://github.com/skills/communicate-using-markdown).
+
+4. A continuación y de forma "mágica" se mostrará la leyenda "Choose a license template", misma que podemos seleccionar o, en el área Editar, podemos pegar el siguiente contenido:
+
+ ![licencia-plantilla](/images/licencia-plantilla.jpg)
+
+```
+  Derechos de autor.
+
+  Por la presente se otorga permiso, sin cargo, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para operar con el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, fusión , publicar, distribuir, otorgar sublicencias y/o vender copias del Software, y permitir que las personas a las que se les proporcione el Software lo hagan, sujeto a las siguientes condiciones:
+
+  El aviso de derechos de autor anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
+
+  EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUYENDO, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIABILIDAD, IDONEIDAD PARA UN FIN DETERMINADO Y NO VIOLACIÓN. EN NINGÚN CASO LOS AUTORES O LOS TITULARES DE LOS DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑOS U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE CUALQUIER OTRO TIPO, QUE SURJA DE, FUERA DE O EN RELACIÓN CON EL SOFTWARE O EL USO U OTROS TRATOS EN EL SOFTWARE.
+```
+ ![licencia-texto](/images/licencia-texto.jpg)
+
+ 5. Posteriormente hagamos clic en el botón **Commit changes** para que al igual que en paso anterior donde creamos el archivo `README`nos aparezca una ventana emergente que nos solicite ingresar un breve mensaje de confirmación que describa los cambios que realizamos. Recordemos que este mensaje ayuda a otros a saber qué estamos añadiendo en nuestro commit. Como nos podemos dar cuenta, GitHub ofrece un mensaje predeterminado simple, pero en esta ocasión vamos a cambiarlo un poco para practicar. Primero, en el título escribamos: "Se añade archivo LICENSE.md". En la descripción extendida ingresemos: Se crea archivo de Licencia en formato markdown que expresa los derechos de autor.
+ 
+6. Por último confirmemos los cambios dando clic en **Commit changes**
+
+  ![licencia-commit](/images/licencia-commit.jpg)
 
 </details>
 
@@ -215,12 +247,12 @@ Durante el curso, pudo adquirir un sólido conocimiento de los conceptos fundame
 - ¡Hiciste tu primera contribución! 🎉
 
 ## ¿Qué sigue?
-Si deseas crear tu perfil README, te recomendamos el artículo "[Cómo configurar un perfil de GitHub](https://vicenteguzman.com/vcs/2023-06-01-configurando-nuestro-github-profile-readme/)".
+Si deseas crear tu perfil README, te recomendamos el artículo [Cómo configurar un perfil de GitHub](https://vicenteguzman.com/vcs/2023-06-01-configurando-nuestro-github-profile-readme/).
 
 Consulte los siguientes recursos para obtener más información o participar:
 
 - ¿Eres estudiante? De ser así echale un vistazo al [Paquete de Desarrollador para Estudiantes](https://education.github.com/pack).
-- ¿Vives en México o Colombia? Aplica al programa [GitHub Octerships](https://education.github.com/students/octernships), mismo que conecta a estudiantes con empresas y obtener experiencia profesional pagada.
+- ¿Vives en México o Colombia? Aplica al programa [GitHub Octerships](https://education.github.com/students/octernships), mismo que conecta a estudiantes con empresas para obtener experiencia profesional pagada.
 - Únete al Meetup oficial de GitHub para Latinoamerica - [GitHub ¡Presente!: En Español](https://www.meetup.com/es-ES/githublatam/)
 - Sigue la cuenta de GitHub CDMX en Instagram - [githubcdmx](https://www.instagram.com/githubcdmx/)
 
