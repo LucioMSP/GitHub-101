@@ -63,6 +63,14 @@ Una [commit](https://docs.github.com/es/get-started/quickstart/github-glossary#c
 <br>
 📺 Vídeo: [¿Qué es un commit?](https://youtu.be/j9zAL52wuLg)
 
+**¿Qué es una solicitud de extracción (pull request)?**
+<br>
+Un [pull request](https://docs.github.com/es/get-started/quickstart/github-glossary#pull) es una petición para integrar nuestras propuestas o cambios de código a un proyecto. 
+
+Un pull request es una petición que el propietario de un fork de un repositorio hace al propietario del repositorio original para que este último incorpore los commits que están en el fork. Estos muestran los cambios en su rama a otras personas y les permite aceptar, rechazar o sugerir cambios adicionales a su rama. 
+<br>
+📺 Vídeo: [¿Qué es y cómo hacer un Pull Request?](https://youtu.be/Zqft6yNRuNs)
+
 **¿Qué es un archivo README?**
 <br>
 Un archivo [README](https://docs.github.com/es/get-started/quickstart/github-glossary#archivo-l%C3%A9ame) en GitHub es una práctica común en la mayoría de los repositorios de código. README es una abreviatura de "read me" que significa "léeme" en inglés. Este archivo tiene la extensión ".md", lo que indica que está escrito en formato [Markdown](https://docs.github.com/es/get-started/quickstart/github-glossary#markdown), un lenguaje de marcado ligero para formatear texto.
@@ -166,14 +174,16 @@ La creación de una rama nos permite editar los proyecto sin cambiar la rama `ma
    ![menu-desplegable-rama-principal](/images/menu-desplegable-rama-principal.jpg)
   
 3. En el campo de texto nos indicá que podemos buscar o crear una rama, aquí ingresemos un nombre para realizar la segunda opción, llamemos a nuestra rama: `dev`. Al hacer esto, de manera automatica, cambiará el contenido y aparecerá la opción de crear la rama con el nombre `dev` proveniente de `main`.
+<br>
 
    ![rama-dev](/images/rama-dev.jpg)
 
 4. Hacemos clic en susodicha alternativa **Create branch: dev** from main  (**Crear rama: dev** de main) para concebir la rama.
   
 5. La rama cambiará automáticamente a la que se acaba de crear. El menú desplegable de la rama `main` reflejará su nueva opción o rama y mostrará por ende el nombre de la misma, que en nuestro caso nombramos: `dev`.
+<br>
 
-    ![rama-creada](/images/rama-creada.jpg)
+  ![rama-creada](/images/rama-creada.jpg)
 
 ¡Listo! - Has creado una rama :tada:
 
@@ -188,17 +198,19 @@ La creación de una rama nos permite editar los proyecto sin cambiar la rama `ma
 
 Para este paso lo primero que deberemos de realizar será el crear/agregar un nuevo archivo, debido a que nos encontramos en la nueva rama que acabamos de generar, por ello sigamos los siguientes pasos:
 
-1. En la pestaña **< > Código (Code)**, en el menú de encabezado de muestro repositorio, asegúremonos de encontrarnos situaciones en la rama, la cual en este ejemplo nombramos: `dev`.
+1. En la pestaña **< > Código (Code)**, en el menú de encabezado de muestro repositorio, asegúremonos de encontrarnos situados en la rama, la cual en este ejemplo nombramos: `dev`.
 
-2. Acto seguido eligamos el menú desplegable "Add file (Agregar archivo)" y seleccionemos (demos clic) en la opción "Create new file (Crear nuevo archivo)".
+2. Acto seguido elijamos el menú desplegable "Add file (Agregar archivo)" y seleccionemos (demos clic) en la opción "Create new file (Crear nuevo archivo)".
+<br>
 
  ![crear-nuevo-archivo](/images/crear-nuevo-archivo.jpg)
 
  3. En la nueva vista, aparecerá un campo vacío con una leyenda en sombreado "Name your file...", el cual nos indica que le brindemos un nombre, llamemoslo `LICENSE.md`.
 
-***Nota***: `.md` es una extensión de archivo que crea un archivo [Markdown](https://docs.github.com/es/get-started/quickstart/github-glossary#markdown). Para obtener mayor información sobre Markdown visite [Sintaxis básica de escritura y formato](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) en la documentación de GitHub o realizando el curso de habilidades [Comunicación mediante Markdown](https://github.com/skills/communicate-using-markdown).
+**Nota**: `.md` es una extensión de archivo que crea un archivo [Markdown](https://docs.github.com/es/get-started/quickstart/github-glossary#markdown). Para obtener mayor información sobre Markdown visite [Sintaxis básica de escritura y formato](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) en la documentación de GitHub o realizando el curso de habilidades [Comunicación mediante Markdown](https://github.com/skills/communicate-using-markdown).
 
 4. A continuación y de forma "mágica" se mostrará la leyenda "Choose a license template", misma que podemos seleccionar o, en el área Editar, podemos pegar el siguiente contenido:
+<br>
 
  ![licencia-plantilla](/images/licencia-plantilla.jpg)
 
@@ -211,13 +223,27 @@ Para este paso lo primero que deberemos de realizar será el crear/agregar un nu
 
   EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUYENDO, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIABILIDAD, IDONEIDAD PARA UN FIN DETERMINADO Y NO VIOLACIÓN. EN NINGÚN CASO LOS AUTORES O LOS TITULARES DE LOS DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑOS U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE CUALQUIER OTRO TIPO, QUE SURJA DE, FUERA DE O EN RELACIÓN CON EL SOFTWARE O EL USO U OTROS TRATOS EN EL SOFTWARE.
 ```
+<br>
+
  ![licencia-texto](/images/licencia-texto.jpg)
 
- 5. Posteriormente hagamos clic en el botón **Commit changes** para que al igual que en paso anterior donde creamos el archivo `README`nos aparezca una ventana emergente que nos solicite ingresar un breve mensaje de confirmación que describa los cambios que realizamos. Recordemos que este mensaje ayuda a otros a saber qué estamos añadiendo en nuestro commit. Como nos podemos dar cuenta, GitHub ofrece un mensaje predeterminado simple, pero en esta ocasión vamos a cambiarlo un poco para practicar. Primero, en el título escribamos: "Se añade archivo LICENSE.md". En la descripción extendida ingresemos: Se crea archivo de Licencia en formato markdown que expresa los derechos de autor.
+ 5. Posteriormente hagamos clic en el botón **Commit changes** para que al igual que en el paso anterior donde creamos el archivo `README`nos aparezca una ventana emergente que nos solicite ingresar un breve mensaje de confirmación que describa los cambios que realizamos. Recordemos que este mensaje ayuda a otros a saber qué estamos añadiendo en nuestro commit. Como nos podemos dar cuenta, GitHub ofrece un mensaje predeterminado simple, pero en esta ocasión vamos a cambiarlo un poco para practicar. 
+ <br>
+
+ Primero, en el título escribamos: "Se añade archivo LICENSE.md". En la descripción extendida ingresemos: Se crea archivo de Licencia en formato markdown que expresa los derechos de autor.
  
 6. Por último confirmemos los cambios dando clic en **Commit changes**
+<br>
 
   ![licencia-commit](/images/licencia-commit.jpg)
+
+¡Excelente! - Ya estas dominando el realizar commits, ¿sencillo no?
+
+Ahora que se realizó un cambio en el proyecto y se añadio, es hora de compartir el cambio propuesto a través de una solicitud de extracción o como se conoce normalmente: PR (Pull Request), el cúal se definió en la Introducción.
+
+### Actividad: Generando nuestro primer Pull Request :keyboard:
+
+
 
 </details>
 
@@ -246,7 +272,7 @@ Durante el curso, pudo adquirir un sólido conocimiento de los conceptos fundame
 - Se logro mezclar con exito la solicitud de cambios.
 - ¡Hiciste tu primera contribución! 🎉
 
-## ¿Qué sigue?
+## Siguientes pasos
 Si deseas crear tu perfil README, te recomendamos el artículo [Cómo configurar un perfil de GitHub](https://vicenteguzman.com/vcs/2023-06-01-configurando-nuestro-github-profile-readme/).
 
 Consulte los siguientes recursos para obtener más información o participar:
@@ -256,7 +282,7 @@ Consulte los siguientes recursos para obtener más información o participar:
 - Únete al Meetup oficial de GitHub para Latinoamerica - [GitHub ¡Presente!: En Español](https://www.meetup.com/es-ES/githublatam/)
 - Sigue la cuenta de GitHub CDMX en Instagram - [githubcdmx](https://www.instagram.com/githubcdmx/)
 
-Por último, nos encantaría escuchar lo que piensa de este curso, los invitamos a que nos dejen sus comentarios y si cumplió con sus expectactivas nos regalen una estrella o su recomendación con sus amigos.
+Por último, nos encantaría escuchar lo que piensa de este curso, los invitamos a que nos dejen sus comentarios y si cumplió con sus expectactivas nos regalen una estrella :sparkles: o su recomendación con sus amigos.
 
 </details>
 
