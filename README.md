@@ -57,6 +57,12 @@ Las ramas son útiles para varios propósitos, como desarrollar nuevas caracter�
 <br>
 📺 Vídeo: [¿Qué son las ramas?](https://youtu.be/LL47l59Ld5I)
 
+**¿Qué es un commit?**: 
+<br>
+Una [commit](https://docs.github.com/es/get-started/quickstart/github-glossary#confirmaci%C3%B3n) es un conjunto de cambios en los archivos y carpetas del proyecto.
+<br>
+📺 Vídeo: [¿Qué es un commit?](https://youtu.be/j9zAL52wuLg)
+
 **¿Qué es un archivo README?**
 <br>
 Un archivo [README](https://docs.github.com/es/get-started/quickstart/github-glossary#archivo-l%C3%A9ame) en GitHub es una práctica común en la mayoría de los repositorios de código. README es una abreviatura de "read me" que significa "léeme" en inglés. Este archivo tiene la extensión ".md", lo que indica que está escrito en formato [Markdown](https://docs.github.com/es/get-started/quickstart/github-glossary#markdown), un lenguaje de marcado ligero para formatear texto.
@@ -125,7 +131,7 @@ Para este ejercicio daremos clic en la opción de README, mismo que nos redirigi
   ![Creando nuestro archivo README](/images/creando-nuestro-archivo-README.jpg)
 
 Aquí podemos añadir la información que deseemos, tal y como se mencionó con anterioridad, cabe destacar que si no gustan editarlo de momento lo podemos hacer más adelante. Por ahora demos clic en el botón azul `Commit changes`, situado en el lado superior derecho. Al hacerlo se desplegará una ventana que solicitará que añadamos un título y una descripción, misma que es opcional. Cuando hayamos escrito susodichos demos clic en el boton correspondiente.
-    
+
   ![Subir cambios](/images/commit-changes.jpg)
    
 ¡Listo!, con esto habremos realizado nuestro primer commit, el cual se puede interpretar como si hubiéramos creado un archivo nuevo y almacenado en nuestro repositorio. 
@@ -150,6 +156,8 @@ Continuemos con el siguiente paso.
 <details id=4>
 <summary><h2>Paso 2: Creando una rama</h2></summary>
 
+La creación de una rama nos permite editar los proyecto sin cambiar la rama `main` (principal).
+
 1. En la página donde nos quedamos previamente veremos del lado izquierdo y debajo del nombre de nuestro repositorio, la pestaña **< > Código (Code)**, ademas de las otras opciones de menú de encabezado.
 
 2. Esta nos mostrará un menú desplegable, la cual al hacer clic solo contendrá la rama `main`
@@ -167,6 +175,8 @@ Continuemos con el siguiente paso.
 
     ![rama-creada](/images/rama-creada.jpg)
 
+¡Listo! - Has creado una rama :tada:_
+
 </details>
 
 <!-- 
@@ -175,6 +185,8 @@ Continuemos con el siguiente paso.
 
 <details id=5>
 <summary><h2>Paso 3: Abrir una solicitud de incorporación de cambios</h2></summary>
+
+
 
 </details>
 
