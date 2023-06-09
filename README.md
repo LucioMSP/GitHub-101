@@ -114,7 +114,7 @@ Un perfil README es practicamente una introducción de quien eres, es decir, una
 <details id=3>
 <summary><h2>Paso 1: Enviando un archivo/cambio</h2></summary>
 
-Una vez dentro del repositorio podemos observar que no contamos con ningún archivo, pero el portal nos brinda algunas recomendaciones tales como la de añadir(cargar) un archivo o crearlo. Así mismo nos señala que podemos crear/incluir un README, LICENSE oun .gitignore.
+Una vez dentro del repositorio podemos observar que no contamos con ningún archivo, pero el portal nos brinda algunas recomendaciones tales como la de añadir(cargar) un archivo o crearlo. Así mismo nos señala que podemos crear/incluir un README, LICENSE o un .gitignore.
 <br> 
 
  ![Incluyendo archivo README](/images/incluyendo-archivo-README.jpg)
@@ -150,7 +150,22 @@ Continuemos con el siguiente paso.
 <details id=4>
 <summary><h2>Paso 2: Creando una rama</h2></summary>
 
+1. En la página donde nos quedamos previamente veremos del lado izquierdo y debajo del nombre de nuestro repositorio, la pestaña **< > Código (Code)**, ademas de las otras opciones de menú de encabezado.
 
+2. Esta nos mostrará un menú desplegable, la cual al hacer clic solo contendrá la rama `main`
+<br>
+
+   ![menu-desplegable-rama-principal](/images/menu-desplegable-rama-principal.jpg)
+  
+3. En el campo de texto nos indicá que podemos buscar o crear una rama, aquí ingresemos un nombre para realizar la segunda opción, llamemos a nuestra rama: `dev`. Al hacer esto, de manera automatica, cambiará el contenido y aparecerá la opción de crear la rama con el nombre `dev` proveniente de `main`.
+
+   ![rama-dev](/images/rama-dev.jpg)
+
+4. Hacemos clic en susodicha alternativa **Create branch: dev from main (Crear rama: dev de main)** para concebir la rama.
+
+   ![botón-crear-sucursal](/images/botón-crear-sucursal.png)
+  
+La rama cambiará automáticamente a la que acaba de crear. La barra desplegable de la sucursal **principal** reflejará su nueva sucursal y mostrará el nombre de la nueva sucursal.
 
 </details>
 
