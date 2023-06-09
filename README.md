@@ -249,9 +249,26 @@ Una vez realizado lo anterior, es probable que hayan notado un pequeño mensaje 
 
 Para realizar el PR hagamos clic en **Open pull request**, al realizar esto se nos mostrará una vista como la siguiente:
 
-![Abriendo Pull Request](/images/abriendo-pul-request.jpg)
+![Abriendo Pull Request](/images/abriendo-pull-request.jpg)
 
-Caso contrario que no hayamos dado clic en susodicha opción deberemos de realizar los siguientes pasos:
+Si nos encontramos en esta pantalla, vayamos directamente al paso número 6. Caso contrario que no hayamos dado clic en susodicha opción, deberemos de realizar los siguientes pasos:
+
+1. Dar clic en la pestaña **Pull requests** en el menú de encabezado del repositorio.
+
+![Pestaña Pull Request](/images/pestaña-pul-request.jpg)
+
+2. Dar clic en **New pull request (Nueva solicitud de extracción)**.
+
+![Nuevo Pull Request](/images/nuevo-pull-request.jpg)
+
+3. En la nueva pantalla se mostrarán dos menús desplegables:  **base:main** y **compare:main**, asegúresemos de que la primera, la base seleccionada siempre esté seleccionado **main**, porque es la "rama principal y original".
+
+![Comparación de ramas](/images/comparacion-de-ramas.jpg)
+
+4. Del segundo menú desplegable **compare:**, seleccionemos nuestra rama `dev`.
+<br>
+
+![Comparación rama Dev](/images/comparacion-rama-dev.jpg)
 
 
 
