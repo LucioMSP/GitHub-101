@@ -161,11 +161,11 @@ Continuemos con el siguiente paso.
 
    ![rama-dev](/images/rama-dev.jpg)
 
-4. Hacemos clic en susodicha alternativa **Create branch: dev from main (Crear rama: dev de main)** para concebir la rama.
-
-   ![botón-crear-sucursal](/images/botón-crear-sucursal.png)
+4. Hacemos clic en susodicha alternativa **Create branch: dev** from main  (**Crear rama: dev** de main) para concebir la rama.
   
-La rama cambiará automáticamente a la que acaba de crear. La barra desplegable de la sucursal **principal** reflejará su nueva sucursal y mostrará el nombre de la nueva sucursal.
+5. La rama cambiará automáticamente a la que se acaba de crear. El menú desplegable de la rama `main` reflejará su nueva opción o rama y mostrará por ende el nombre de la misma, que en nuestro caso nombramos: `dev`.
+
+    ![rama-creada](/images/rama-creada.jpg)
 
 </details>
 
