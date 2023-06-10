@@ -261,17 +261,21 @@ Si nos encontramos en esta pantalla, vayamos directamente al paso número 6. Cas
 
 ![Nuevo Pull Request](/images/nuevo-pull-request.jpg)
 
-3. En la nueva pantalla se mostrarán dos menús desplegables:  **base:main** y **compare:main**, asegúresemos de que la primera, la base seleccionada siempre esté seleccionado **main**, porque es la "rama principal y original".
+3. En la nueva pantalla se mostrarán dos menús desplegables:  **base:main** y **compare:main**, asegúresemos de que la primera, la base seleccionada siempre sea **main**, porque es la "rama principal y original".
 
 ![Comparación de ramas](/images/comparacion-de-ramas.jpg)
 
 4. Del segundo menú desplegable **compare:**, seleccionemos nuestra rama `dev`.
-<br>
 
 ![Comparación rama Dev](/images/comparacion-rama-dev.jpg)
 
+5. Demos clic en el botón situado a la derecha **Create pull request**.
+6. Aquí deberemos de añadir un título para la solicitud de envio, aunque si nos percatamos, de forma predeterminada, el título será automáticamente el nombre del commit previamente ingresado. 
+7. El siguiente campo lo ayuda a proporcionar una descripción de los cambios que realizó. 
+8. Por último hagamos clic en **Create pull request**. Posteriormente seremos rediirigidos automáticamente a la nueva solicitud de extracción.
+<br>
 
-
+![Enviando mi primer PR ](/images/enviando-mi-primer-pr.jpg)
 </details>
 
 <!-- 
