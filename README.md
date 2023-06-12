@@ -76,7 +76,8 @@ Un pull request es una petición que el propietario de un fork de un repositorio
 
 📺 Vídeo: [¿Qué es y cómo hacer un Pull Request?](https://youtu.be/Zqft6yNRuNs)
 
-**¿Qué es un merge?**: 
+**¿Qué es un merge?**:
+<br>
 Un [merge](https://docs.github.com/es/get-started/quickstart/github-glossary#merge) o fusión en español se refiere al proceso de combinar cambios de una rama (branch) a otra en un repositorio. 
 
 El "merge" combina los cambios de una rama con otra mediante la creación de un nuevo commit que refleje esos cambios en la rama de destino. GitHub utiliza un algoritmo de fusión llamado "merge commit" para combinar las diferencias entre las dos ramas. Este "merge commit" registra el historial de cambios y permite mantener un registro de los cambios realizados en cada rama.
