@@ -272,10 +272,16 @@ Si nos encontramos en esta pantalla, vayamos directamente al paso número 6. Cas
 5. Demos clic en el botón situado a la derecha **Create pull request**.
 6. Aquí deberemos de añadir un título para la solicitud de envio, aunque si nos percatamos, de forma predeterminada, el título será automáticamente el nombre del commit previamente ingresado. 
 7. El siguiente campo lo ayuda a proporcionar una descripción de los cambios que realizó. 
-8. Por último hagamos clic en **Create pull request**. Posteriormente seremos rediirigidos automáticamente a la nueva solicitud de extracción.
 <br>
 
 ![Enviando mi primer PR ](/images/enviando-mi-primer-pr.jpg)
+
+8. Por último hagamos clic en **Create pull request**. Posteriormente seremos redirigidos automáticamente a la nueva solicitud de extracción.
+
+![PR en proceso ](/images/pr-en-proceso.jpg)
+
+¡Listo!, Con esto habremos realizado nuestro primer Pull Request, vayamos al siguiente y último paso. :tada:
+
 </details>
 
 <!-- 
@@ -284,6 +290,8 @@ Si nos encontramos en esta pantalla, vayamos directamente al paso número 6. Cas
 
 <details id=6>
 <summary><h2>Paso 4: Fusionando/Aceptando los cambios</h2></summary>
+
+
 
 </details>
 
@@ -300,7 +308,7 @@ Durante el curso, pudo adquirir un sólido conocimiento de los conceptos fundame
 
 - Aprendiste sobre GitHub, repositorios, ramas, commits y solicitudes de incorporación de cambios.
 - Creó una rama, realizo un commit y se genero una solicitud de incorporación de archivos.
-- Se logro mezclar con exito la solicitud de cambios.
+- Se logró mezclar con exito la solicitud de cambios.
 - ¡Hiciste tu primera contribución! 🎉
 
 ## Siguientes pasos
