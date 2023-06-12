@@ -41,12 +41,14 @@ El equipo de GitHub 101
 <br>
 GitHub es un servicio basado en la nube que aloja un sistema de control de versiones [(VCS)](https://es.wikipedia.org/wiki/VCS_(desambiguaci%C3%B3n)) llamado [Git](https://docs.github.com/es/get-started/using-git/about-git), en otras palabras es una plataforma de colaboración que utiliza Git para el control de versiones, es decir, se utiliza para compartir y contribuir al software de [código abierto](https://docs.github.com/es/get-started/quickstart/github-glossary#c%C3%B3digo-abierto).
 <br>
+
 📺 Vídeo: [¿Qué es GitHub?](https://youtu.be/DinilgacaWs)
 
 **¿Qué es un repositorio?**
 <br>
 Un [repositorio](https://docs.github.com/es/get-started/quickstart/github-glossary#repository) es un proyecto que contiene todos los archivos del mismo, tales como imagenes, carpetas, entre otros tipos de archivos. Así como el historial de revisiones de cada uno de ellos. Aqui puedes debatir y administrar el trabajo de tu proyecto dentro.
 <br>
+
 📺 Video: [¿Qué es un repositorio?](https://youtu.be/6NOwXGqHUds)
 
 **¿Qué es una rama?**
@@ -55,12 +57,14 @@ En GitHub, una [rama (branch en inglés)](https://docs.github.com/es/get-started
 
 Las ramas son útiles para varios propósitos, como desarrollar nuevas características, solucionar problemas, experimentar con cambios importantes o colaborar con otros desarrolladores. Cada rama puede tener su propio conjunto de cambios y contribuciones independientes del resto del proyecto. Esto permite un flujo de trabajo colaborativo y paralelo, ya que cada desarrollador puede trabajar en su propia rama sin interferir con el trabajo de los demás.
 <br>
+
 📺 Vídeo: [¿Qué son las ramas?](https://youtu.be/LL47l59Ld5I)
 
 **¿Qué es un commit?**: 
 <br>
 Una [commit](https://docs.github.com/es/get-started/quickstart/github-glossary#confirmaci%C3%B3n) es un conjunto de cambios en los archivos y carpetas del proyecto.
 <br>
+
 📺 Vídeo: [¿Qué es un commit?](https://youtu.be/j9zAL52wuLg)
 
 **¿Qué es una solicitud de extracción (pull request)?**
@@ -69,7 +73,16 @@ Un [pull request](https://docs.github.com/es/get-started/quickstart/github-gloss
 
 Un pull request es una petición que el propietario de un fork de un repositorio hace al propietario del repositorio original para que este último incorpore los commits que están en el fork. Estos muestran los cambios en su rama a otras personas y les permite aceptar, rechazar o sugerir cambios adicionales a su rama. 
 <br>
+
 📺 Vídeo: [¿Qué es y cómo hacer un Pull Request?](https://youtu.be/Zqft6yNRuNs)
+
+**¿Qué es un merge?**: 
+Un [merge](https://docs.github.com/es/get-started/quickstart/github-glossary#merge) o fusión en español se refiere al proceso de combinar cambios de una rama (branch) a otra en un repositorio. 
+
+El "merge" combina los cambios de una rama con otra mediante la creación de un nuevo commit que refleje esos cambios en la rama de destino. GitHub utiliza un algoritmo de fusión llamado "merge commit" para combinar las diferencias entre las dos ramas. Este "merge commit" registra el historial de cambios y permite mantener un registro de los cambios realizados en cada rama.
+<br>
+
+📺 Vídeo: [¿Cómo hacer un merge?](https://youtu.be/vu4Rv1SmzwM)
 
 **¿Qué es un archivo README?**
 <br>
@@ -291,7 +304,26 @@ Si nos encontramos en esta pantalla, vayamos directamente al paso número 6. Cas
 <details id=6>
 <summary><h2>Paso 4: Fusionando/Aceptando los cambios</h2></summary>
 
+En este paso terminaremos lo que se ha realizado con anterioridad, es decir, realizaremos la fusión de los archivos o cambios que se mandaron en el pull request mediente un merge.
+### Actividad: fusionar la solicitud de cambios :keyboard: 
 
+1. En la pantalla actual hagamos clic en el botón **Merge pull request**.
+
+![Merge pull request](/images/merge-pull-request.jpg)
+
+2. Acto seguido, en el mini desplegable que aparecerá, demos clic en **Confirm merge** (cabe destacar que podemos editar tanto el título como la descripción, pero para este ejemplo dejemoslo tal y como se muestra).
+
+![Confirm merge](/images/confirm-merge.jpg)
+
+3. Una vez que la rama se haya fusionado, ya no la necesitaremos, para eliminarla, hagamos clic en **Delete branch**.
+
+![Delete branch](/images/delete-branch.jpg)
+
+**Nota**: si eliminamos la rama, podemos restaurarla con la opción que nos aparecerá:
+
+![restaurar rama](/images/restaurar-rama.jpg)
+
+¡Listo! - Hemos fusionado correctamente nuestros cambios de la rama `dev`a `main` :tada:
 
 </details>
 
