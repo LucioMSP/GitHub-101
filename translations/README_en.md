@@ -89,7 +89,7 @@ If you wanna know more  go to [Manage your README profile](https://docs.github.c
 </details>
 
 <details id=2>
-<sumarry><h2>Start of the course</h2></sumarry>
+<summary><h2>Start of the course</h2></summary>
 
 1. Click on **Start course** button. (I suggest open it in a new tab)
 
