@@ -270,5 +270,5 @@ If you feel that this course met your expectations and you found it helpful, we 
 </details>
 
 
-[Github support](https://support.github.com/)
+[Github support](https://support.github.com/)<br>
 [Github Community](https://community.github.com/)
