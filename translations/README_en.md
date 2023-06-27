@@ -22,7 +22,8 @@ Good luck and happy coding!
 <details id=1>
     <summary><h2>Introduction</h2></summary>
 <br>
-Github is a cloud-based service which host a control sistem version called [Git](https://docs.github.com/en/get-started/using-git/about-git) , in other word, is a plataform of collaboration which use Git to manage the changes, this mean, Github is used for sharing and contributing [open source](https://github.com/topics/open-source) code. 
+    
+GitHub is a cloud-based service which hosts a version control system called [Git](https://docs.github.com/en/get-started/using-git/about-git). In other words, it is a platform of collaboration that uses Git to manage changes. This means that GitHub is used for sharing and contributing [open source](https://github.com/topics/open-source) code.
 
 📺 Video: [What's Github](https://www.youtube.com/watch?v=pBy1zgt0XPc)
 <br>
