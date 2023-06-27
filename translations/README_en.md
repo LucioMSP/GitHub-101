@@ -5,7 +5,7 @@ Short course to learn how to use Github.
 <details id=0>
 <summary><h2>Welcome to everyone!</h2></summary>
 
-We're happy to have you here, welcome to this excited course, where you'll learn the fundamentals of Github, and how to get advantage of all the features that Github offers to you. Github become the tool of choice for millions devolvers around the world. this course will give all the skills that you need yo use it in a professional way.
+We're happy to have you here, welcome to this excited course, where you'll learn the fundamentals of Github, and how to get advantage of all the features that Github offers to you. Github become the tool of choice for millions devolpers around the world. this course will give all the skills that you need yo use it in a professional way.
 
 Through this course, we'll take a dive in the concepts basics of Github, even how to configure your account, how yo create a repository, clone, make changes, colaborate with other devolvers, and more. As well as, we'll provide you tricks and good practices to make sure you're using a efficient workflow.
 
