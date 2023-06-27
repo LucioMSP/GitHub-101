@@ -209,6 +209,7 @@ First, in the title, let's write: "Add LICENSE.md file". In the extended descrip
 Great! You're already mastering the process of making commits. Isn't it straightforward?
 
 Now that a change has been made in the project and added, it's time to share the proposed change through a pull request (PR), as defined in the Introduction.
+</details>
 
 <details id=6>
 <summary><h2>Step 4: Merge a pull request</h2></summary>
