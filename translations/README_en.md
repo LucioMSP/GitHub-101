@@ -259,8 +259,8 @@ If you wanna create your README profile, i suggest you read the next article
 
 Check out the next resources:
 
-- are you students? [GitHub Student Developer Pack](https://education.github.com/pack)
-- Live on Mexico or Colombia? Apply to [GitHub Octerships](https://education.github.com/students/octernships) which offers pay mentoryship opportunities to students who are passionate about open source.
+- are you student? [GitHub Student Developer Pack](https://education.github.com/pack)
+- Live on Mexico or Colombia? Apply to [GitHub Octerships](https://education.github.com/students/octernships) which offers pay mentorship opportunities to students who are passionate about open source.
 - Join to the meetup oficial for GitHub in your country [GitHub Community](https://community.github.com/)
 
 We appreciate your feedback! We strive to provide valuable courses and content to our learners. If you have any comments, suggestions, or feedback about this course, we would love to hear from you. Your input helps us improve and deliver better learning experiences.
