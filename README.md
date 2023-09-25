@@ -6,7 +6,9 @@
 -->
 # GitHub-101
 Mini curso básico para aprender a usar GitHub.
-This course is also available in other languages, check it out. [translations](/translations)
+
+Este curso también está disponible en otros idiomas, consúltalo [aquí](/translations)
+This course is also available in other languages, check it out [here](/translations)
 
 <!-- 
   <<< Author notes: Start of the course >>> 
